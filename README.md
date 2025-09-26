@@ -1,4 +1,4 @@
 # Test
 This is my first repository
 <br>
-Author - Ankush Shaw  
+Author - Ankush Shaw (Master)
